@@ -1,8 +1,12 @@
 [package]
 name = "pi_wy_rng"
 version = "0.1.0"
-authors = ["suncy <suncy@gmail.com>"]
-edition = "2018"
+authors = ["suncy <530739162@qq.com>"]
+edition = "2021"
+description = "An efficient random library"
+repository = "https://github.com/GaiaWorld/pi_wy_rng.git"
+license = "MIT OR Apache-2.0"
+keywords = ["pi", "rand", "rng", "wy", "pi_wy_rng"]
 
 [dependencies]
 rand = "0.8"
